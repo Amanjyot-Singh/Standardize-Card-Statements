@@ -1,0 +1,25 @@
+Date,Transaction Description,Debit,Credit,Currency,CardName,Transaction,Location
+13-12-2017,JUNOON RESTRO GURGAON             ,1255.00,,INR,Rahul,domestic,gurgaon
+16-12-2017,POONAM SERVICE STATION GURGAON    ,,17.00,INR,Rahul,domestic,gurgaon
+16-12-2017,KABI BESPOKE BOUTIQUE GURGAON     ,220.00,,INR,Rahul,domestic,gurgaon
+16-12-2017,CLEARTRIP TRAVEL SERVIC MUMBAI     ,14849.00,,INR,Rahul,domestic,mumbai
+21-12-2017,INDIAN RAILWAY CATERINGNEW DELHI  ,1684.00,,INR,Rahul,domestic,delhi
+22-12-2017,CLEARTRIP TRAVEL SERVIC MUMBAI     ,5205.00,,INR,Rahul,domestic,mumbai
+22-12-2017,MSW*BLISS HOSPITALITIE Delhi NCR  ,,3764.00,INR,Rahul,domestic,ncr
+23-12-2017,NIMITAYA HOTEL & RESOR GURGAON    ,3475.00,,INR,Rahul,domestic,gurgaon
+24-12-2017,BIKANERVALA (GURGAON U) GURGAON   ,278.00,,INR,Rahul,domestic,gurgaon
+01-02-2018,THAI CHI STREET GURGAON    ,987.00,,INR,Rajat,domestic,gurgaon
+01-02-2018,AMAZON PAY BANGALORE              ,1875.00,,INR,Rajat,domestic,bangalore
+01-04-2018,SHAHEED MANOHAR LAL FIL GURGAON   ,,18.00,INR,Rajat,domestic,gurgaon
+01-08-2018,BIKANERVALA (GURGAON U) GURGAON    ,420.00,,INR,Rajat,domestic,gurgaon
+01-09-2018,MOPS-SBC-CR-CARD-E MUMBAI         ,500000.00,,INR,Rajat,domestic,mumbai
+12-12-2017,SHOPPERS STOP LTD GURGAON         ,,2886.00,INR,Rajat,domestic,gurgaon
+12-12-2017,MORE MEGASTORE GURGAON            ,1500.00,,INR,Rajat,domestic,gurgaon
+13-12-2017,SHAHEED MANOHAR LAL FIL  GURGAON  ,1968.00,,INR,Rajat,domestic,gurgaon
+13-12-2017,LIVE PHARMACY GURGAON             ,627.00,,INR,Rajat,domestic,gurgaon
+01-03-2018,SRILANKANUPGRADE KATUNAYAKE         EUR,10.00,,EUR,Rahul,international,katunayake
+14-01-2018,HEALTHGUARD LIMITED KATUNAYAKE      USD,,8.00,USD,Rahul,international,katunayake
+14-01-2018,FOOT RUB BERLIN                     EUR,21.00,,EUR,Rahul,international,berlin
+20-01-2018,California Games CALIFORNIA         USD,101.00,,USD,Rahul,international,california
+30-01-2018,NewYorkShop NEWYORK                 USD,,199.00,USD,Rahul,international,newyork
+02-08-2018,EURO WINGS DUSSELDOR                EUR,10.00,,EUR,Rahul,international,dusseldor

@@ -1,0 +1,24 @@
+Date,Transaction Description,Debit,Credit,Currency,CardName,Transaction,Location
+12-03-2018,Amazon Cash Back Jan 18      Hissar,213.00,,INR,Rahul,domestic,hissar
+16-03-2018,SUBWAY GURGAON,,230.00,INR,Rahul,domestic,gurgaon
+18-03-2018,NIMITAYA HOTEL & RESOR GURGAON,,3415.00,INR,Rahul,domestic,gurgaon
+18-03-2018,BIRYANI PARADISE GURGAON,,335.00,INR,Rahul,domestic,gurgaon
+19-03-2018,AIRTEL PAYMENT MUMBAI,880.00,,INR,Rahul,domestic,mumbai
+19-03-2018,AIRTEL PAYMENT MUMBAI,,1297.00,INR,Rahul,domestic,mumbai
+19-03-2018,AMAZON SELLER SERVICES MUMBAI,41499.00,,INR,Raj,domestic,mumbai
+19-03-2018,ICICI PRUDENTIAL LIFE MUMBAI,35935.00,,INR,Raj,domestic,mumbai
+20-03-2018,CARNIVAL CINEMAS NEEMU GURGAON,110.00,,INR,Raj,domestic,gurgaon
+23-03-2018,BIRYANI PARADISE GURGAON,219.00,,INR,Raj,domestic,gurgaon
+25-03-2018,SRS CINEMAS GURGAON,,155.00,INR,Raj,domestic,gurgaon
+25-03-2018,SRS CINEMAS GURGAON,,1440.00,INR,Raj,domestic,gurgaon
+25-03-2018,NIMITAYA HOTEL & RESOR GURGAON,3414.00,,INR,Raj,domestic,gurgaon
+26-03-2018,KABI BESPOKE BOUTIQUE GURGAON,,270.00,INR,Raj,domestic,gurgaon
+27-03-2018,PAYTM NOIDA,2941.00,,INR,Raj,domestic,noida
+27-03-2018,AMAZON SELLER SERVICES MUMBAI,416.00,,INR,Raj,domestic,mumbai
+28-03-2018,www.vodafone.in MUMBAI,500.00,0.00,INR,Raj,domestic,mumbai
+30-12-2017,SRILANKANUPGRADE KATUNAYAKE         EUR,6.00,,EUR,Raj,international,katunayake
+14-01-2018,HEALTHGUARD LIMITED KATUNAYAKE      USD,,15.00,USD,Raj,international,katunayake
+19-01-2018,FOOT RUB BERLIN                  EUR,26.00,,EUR,Raj,international,berlin
+20-01-2018,California Games CALIFORNIA         USD,107.00,,USD,Raj,international,california
+30-01-2018,NewYorkShop NEWYORK                 USD,210.00,,USD,Raj,international,newyork
+08-02-2018,EURO WINGS DUSSELDOR                EUR,15.00,,EUR,Raj,international,dusseldor
