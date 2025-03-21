@@ -5,5 +5,5 @@ Setup:
 npm i csv-parser, csv-writer, moment
 
 To Execute:
-General - node script <input-file>
+General - node script "input-file"
 
